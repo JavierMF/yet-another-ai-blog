@@ -1,0 +1,11 @@
+[es]
+  languageName = "Español"
+  weight = 1
+  title = "Yet Another AI Blog"
+  tagline = "Reflexiones sobre inteligencia artificial"
+
+[en]
+  languageName = "English"
+  weight = 2
+  title = "Yet Another AI Blog"
+  tagline = "Reflections on artificial intelligence"
