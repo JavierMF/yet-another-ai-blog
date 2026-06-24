@@ -1,4 +1,4 @@
 <figure>
-  <img src="{{ .Get "src" | relURL }}" alt="{{ .Get "alt" }}"{{ with .Get "width" }} width="{{ . }}"{{ end }}>
+  <img src="{{ .Get "src" | strings.TrimPrefix "/" | absURL }}" alt="{{ .Get "alt" }}"{{ with .Get "width" }} width="{{ . }}"{{ end }}>
   {{ with .Get "caption" }}<figcaption><p>{{ . }}</p></figcaption>{{ end }}
 </figure>
