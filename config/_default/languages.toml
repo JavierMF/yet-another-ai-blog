@@ -1,11 +1,23 @@
 [es]
   languageName = "Español"
   weight = 1
-  title = "Yet Another AI Blog"
+  title = "Qué pesados con la IA"
   tagline = "Reflexiones sobre inteligencia artificial"
+  contentDir = "content/es"
+
+  [[es.menus.main]]
+    name = "ℹ️ Sobre este blog"
+    url = "/sobre/"
+    weight = 1
 
 [en]
   languageName = "English"
   weight = 2
-  title = "Yet Another AI Blog"
+  title = "I'm so sick of the AI"
   tagline = "Reflections on artificial intelligence"
+  contentDir = "content/en"
+
+  [[en.menus.main]]
+    name = "ℹ️ About this blog"
+    url = "/en/about/"
+    weight = 1
