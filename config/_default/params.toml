@@ -1,16 +1,17 @@
 toc = true
 author = "Javier"
+avatar = "img/commons/avatar.jpg"
 
 [assets]
   self_host = false
 
 [social]
   name = "Javier Muñoz"
-  url = "https://github.com/javierm"
+  url = "https://github.com/javiermf"
 
 [[social.links]]
   type = "github"
-  id = "javierm"
+  id = "javiermf"
   icon = "fab fa-github"
 
 [[social.links]]
