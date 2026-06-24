@@ -18,3 +18,8 @@ avatar = "img/commons/avatar.jpg"
   type = "email"
   id = "javier.munoz@gmail.com"
   icon = "fas fa-envelope"
+
+[[social.links]]
+  type = "custom"
+  id = "https://www.linkedin.com/in/javiermf"
+  icon = "fab fa-linkedin"
