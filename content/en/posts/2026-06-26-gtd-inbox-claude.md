@@ -2,7 +2,6 @@
 title: "How I taught Claude to process my GTD inbox"
 date: 2026-06-26
 type: post
-draft: true
 categories: [Productivity]
 tags: [GTD, Notion, Claude, Skills, MCP]
 ---
