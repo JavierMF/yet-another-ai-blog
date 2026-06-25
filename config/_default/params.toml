@@ -23,3 +23,7 @@ avatar = "img/commons/avatar.jpg"
   type = "custom"
   id = "https://www.linkedin.com/in/javiermf"
   icon = "fab fa-linkedin"
+
+[[social.links]]
+  type = "rss"
+  icon = "fas fa-rss"

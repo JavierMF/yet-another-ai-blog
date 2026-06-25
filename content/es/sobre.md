@@ -1,6 +1,8 @@
 ---
 title: "Sobre este blog"
 layout: page
+_build:
+  list: never
 ---
 
 Internet está saturado de contenido sobre IA y eso me ha obligado a crear este blog. Demasiado vende humos, demasiado hater, demasiado FOMO. No puedo creer que todo el mundo tenga las ideas tan claras en un terreno tan escurridizo.
