@@ -1,4 +1,16 @@
 toc = true
+
+[comments]
+  enable = true
+  provider = "giscus"
+  [comments.giscus]
+    repo = "JavierMF/yet-another-ai-blog"
+    repo_id = "R_kgDOTEFt4A"
+    category = "Announcements"
+    category_id = "DIC_kwDOTEFt4M4C_5MP"
+    mapping = "pathname"
+    reactions_enabled = "1"
+    input_position = "bottom"
 author = "Javier"
 avatar = "img/commons/avatar.jpg"
 
