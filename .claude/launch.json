@@ -4,7 +4,7 @@
     {
       "name": "hugo",
       "runtimeExecutable": "hugo",
-      "runtimeArgs": ["server", "--buildDrafts"],
+      "runtimeArgs": ["server", "--buildDrafts", "--buildFuture"],
       "port": 1313
     }
   ]
