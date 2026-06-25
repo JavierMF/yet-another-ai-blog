@@ -1,5 +1,5 @@
 ---
-title: "Said and Done: an agent to track promises"
+title: "A multi-agent system to track promises"
 date: 2026-06-24
 type: post
 categories: [Projects]

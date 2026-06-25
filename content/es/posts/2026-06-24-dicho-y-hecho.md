@@ -1,5 +1,5 @@
 ---
-title: "Dicho y Hecho: un agente para rastrear promesas"
+title: "Un sistema de agentes para rastrear promesas"
 date: 2026-06-24
 type: post
 categories: [Proyectos]
