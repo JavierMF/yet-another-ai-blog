@@ -4,6 +4,7 @@ date: 2026-06-26
 type: post
 categories: [Productividad]
 tags: [GTD, Notion, Claude, Skills, MCP]
+images: ["/img/posts/gtd-notion-inbox.png"]
 ---
 
 ## 🧠 El problema
